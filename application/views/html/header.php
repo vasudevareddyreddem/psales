@@ -30,7 +30,7 @@
             <div class="container">
 
                 <!-- Brand -->
-                <a class="navbar-brand waves-effect" href="#">
+                <a class="navbar-brand waves-effect" href="<?php echo base_url(); ?>">
                     <img src="<?php echo base_url(); ?>assets/vendor/img/logo.png" alt="logo" height="auto" width="100">
                 </a>    
                 
